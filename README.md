@@ -25,14 +25,19 @@ Para este projeto, utilizei o NotebookLM para processar uma base de dados mista 
 Principais Fontes (Curadoria de Elite):
 
 Artigo Acadêmico: Factors that contributed to the failure of the Pruitt-Igoe Housing - Foco em gestão e sociologia urbana.
+Link para download: https://www.researchgate.net/publication/353326787_Factors_that_contributed_to_the_failure_of_the_Pruitt-Igoe_Housing
 
-Relatório Técnico: Barcelona Superblocks - CityChangers - Guia prático sobre pacificação de ruas.
+Relatório Técnico: Barcelona Superblocks - CityChanger - Guia prático sobre pacificação de ruas.
+Link: https://citychangers.org/barcelona-superblocks/
 
 Estudo de Caso: Curitiba: Urban-LEDS (ICLEI) - Detalhes sobre o sistema BRT e sustentabilidade.
+Link para download: https://www.thegpsc.org/sites/default/files/2025-10/iclei_cs_190_curitiba_urban-leds_0.pdf
 
 Documentário (YouTube): Pruitt-Igoe e o colapso modernista - Contexto visual e histórico.
+https://www.youtube.com/watch?v=0vXCjEu-3bA
 
 Artigo de Opinião/Crítica: Design Against Humanity - Análise sobre arquitetura hostil.
+Link para o artigo: https://nationalhomeless.org/design-against-humanity/
 
 🧠 Engenharia de Prompts e "Cicatrizes"
 
